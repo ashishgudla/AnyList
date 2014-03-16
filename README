@@ -1,0 +1,20 @@
+Any List is a basic android list application that facilitates
+creation of new lists and adding elements to each list.
+
+The specialities include the ease of use like one touch add, swipe
+to delete, natural flow animation, long press modify etc.
+
+The lists are stored in a sqlite database which makes it very robust,
+easy to maintain and retrieve the lists.
+
+The swipe to dismiss feature was taken from the open source implementation
+by Roman Nurik from the following repository.
+"https://github.com/romannurik/Android-SwipeToDismiss".
+
+The sqlite implementation was developed based on the tutorial by Ravi Tamada
+from the following link.
+"http://www.androidhive.info/2013/09/android-sqlite-database-with-multiple-tables/".
+
+The entire project is licensed under Apache License version - 2 and is free
+to download and build upon from the following Github link.
+"https://github.com/ashishgudla/AnyList". 
